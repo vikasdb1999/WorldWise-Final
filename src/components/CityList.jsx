@@ -8,7 +8,7 @@ function CityList() {
   const { cities, isLoading } = useCities();
   console.log(cities);
   if (isLoading) return <Spinner />;
-  if (!cities?.length) {
+  if (!cities.length) {
     return <Message message={"Add Your First City by CLicking on the map."} />;
   }
   return (
