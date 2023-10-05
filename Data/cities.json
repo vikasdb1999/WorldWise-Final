@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "La Guardia de Jaen",
+      "emoji": "🇪🇸",
+      "country": "Spain",
+      "date": "2023-10-05T13:33:08.653Z",
+      "notes": "",
+      "position": {
+        "lat": "37.73847883910343",
+        "lng": "-3.7133789062500004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Alboran Sea",
+      "emoji": "🇪🇸",
+      "country": "Spain",
+      "date": "2023-10-05T13:33:17.835Z",
+      "notes": "",
+      "position": {
+        "lat": "36.652889207373825",
+        "lng": "-4.416503906250001"
+      },
+      "id": 2
+    }
+  ]
+}
