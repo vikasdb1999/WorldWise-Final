@@ -13,15 +13,7 @@ export default function Product() {
         <div>
           <h2>About WorldWide.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
-            dicta illum vero culpa cum quaerat architecto sapiente eius non
-            soluta, molestiae nihil laborum, placeat debitis, laboriosam at fuga
-            perspiciatis?
-          </p>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
+           WorldWise allows travelers to map their journeys and share their experiences. Users can easily add new destinations they've visited using map APIs and provide insights through narratives,  It's a unique platform where wanderlust meets storytelling, inspiring others to explore the world. Join WorldWise today and be part of a global community of travelers.
           </p>
         </div>
       </section>
